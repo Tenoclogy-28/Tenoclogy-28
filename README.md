@@ -14,7 +14,7 @@
 
 
 <!-- TECNOLOGIAS USADAS -->
-<h3 align="center">En TENOCLOGY estamos actualizandonos contantemente en las ultimas tecnologias que estan inovando nuestro mundo es por esto que contamos con los conocimientos adecuados para dar soluciones a los problemas actuales de forma eficiente e innovadora.</h3>
+<h3 align="center">En TENOCLOGY estamos actualizandonos contantemente en las ultimas tecnologias que estan innovando nuestro mundo es por esto que contamos con los conocimientos adecuados para dar soluciones a los problemas actuales de forma eficiente e innovadora.</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
